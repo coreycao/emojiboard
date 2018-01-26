@@ -1,0 +1,248 @@
+[
+  {
+    "id": "1",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_001.png",
+    "emojiName": "[龇牙]"
+  },
+
+  {
+    "id": "2",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_002.png",
+    "emojiName": "[调皮]"
+  },
+
+  {
+    "id": "3",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_003.png",
+    "emojiName": "[偷笑]"
+  },
+
+  {
+    "id": "4",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_004.png",
+    "emojiName": "[擦汗]"
+  },
+
+  {
+    "id": "5",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_005.png",
+    "emojiName": "[流泪]"
+  },
+
+  {
+    "id": "6",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_006.png",
+    "emojiName": "[大哭]"
+  },
+
+  {
+    "id": "7",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_007.png",
+    "emojiName": "[抓狂]"
+  },
+
+  {
+    "id": "8",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_008.png",
+    "emojiName": "[可爱]"
+  },
+
+  {
+    "id": "9",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_009.png",
+    "emojiName": "[色]"
+  },
+
+  {
+    "id": "10",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_010.png",
+    "emojiName": "[害羞]"
+  },
+
+  {
+    "id": "11",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_011.png",
+    "emojiName": "[吐]"
+  },
+
+  {
+    "id": "12",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_012.png",
+    "emojiName": "[怒]"
+  },
+
+  {
+    "id": "13",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_013.png",
+    "emojiName": "[惊恐]"
+  },
+
+  {
+    "id": "14",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_014.png",
+    "emojiName": "[傲慢]"
+  },
+
+  {
+    "id": "15",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_015.png",
+    "emojiName": "[惊讶]"
+  },
+
+  {
+    "id": "16",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_016.png",
+    "emojiName": "[疑问]"
+  },
+
+  {
+    "id": "17",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_017.png",
+    "emojiName": "[困]"
+  },
+
+  {
+    "id": "18",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_018.png",
+    "emojiName": "[么么哒]"
+  },
+
+  {
+    "id": "19",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_019.png",
+    "emojiName": "[衰]"
+  },
+
+  {
+    "id": "20",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_020.png",
+    "emojiName": "[撇嘴]"
+  },
+
+  {
+    "id": "21",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_021.png",
+    "emojiName": "[奋斗]"
+  },
+
+  {
+    "id": "22",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_022.png",
+    "emojiName": "[左哼哼]"
+  },
+
+  {
+    "id": "23",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_023.png",
+    "emojiName": "[右哼哼]"
+  },
+
+  {
+    "id": "24",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_024.png",
+    "emojiName": "[抱抱]"
+  },
+
+  {
+    "id": "25",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_025.png",
+    "emojiName": "[坏笑]"
+  },
+
+  {
+    "id": "26",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_026.png",
+    "emojiName": "[鄙视]"
+  },
+
+  {
+    "id": "27",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_027.png",
+    "emojiName": "[晕]"
+  },
+
+  {
+    "id": "28",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_028.png",
+    "emojiName": "[可怜]"
+  },
+
+  {
+    "id": "29",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_029.png",
+    "emojiName": "[闭嘴]"
+  },
+
+  {
+    "id": "30",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_030.png",
+    "emojiName": "[睡觉]"
+  },
+
+  {
+    "id": "31",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_031.png",
+    "emojiName": "[咒骂]"
+  },
+
+  {
+    "id": "32",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_032.png",
+    "emojiName": "[抠鼻]"
+  },
+
+  {
+    "id": "33",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_033.png",
+    "emojiName": "[鼓掌]"
+  },
+
+  {
+    "id": "34",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_034.png",
+    "emojiName": "[糗大了]"
+  },
+
+  {
+    "id": "35",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_035.png",
+    "emojiName": "[快哭了]"
+  },
+
+  {
+    "id": "36",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_036.png",
+    "emojiName": "[吓]"
+  },
+
+  {
+    "id": "37",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_037.png",
+    "emojiName": "[猪头]"
+  },
+
+  {
+    "id": "38",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_038.png",
+    "emojiName": "[爱心]"
+  },
+
+  {
+    "id": "39",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_039.png",
+    "emojiName": "[示爱]"
+  },
+
+  {
+    "id": "40",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_040.png",
+    "emojiName": "[差劲]"
+  },
+
+  {
+    "id": "41",
+    "emojiPath": "file:///android_asset/emoji/img/emoji_041.png",
+    "emojiName": "[心碎了]"
+  }
+
+]
